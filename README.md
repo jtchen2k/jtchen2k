@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm an undergraduate in ECNU.
+
 <!--
 **BillChen2K/BillChen2K** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

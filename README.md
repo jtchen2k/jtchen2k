@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm an undergraduate in ECNU.
+I'm an undergraduate in ECNU. See you in my Tg Channel [@Hertz2000](https://t.me/Hertz2000).
 
 <!--
 **BillChen2K/BillChen2K** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

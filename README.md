@@ -1,16 +1,18 @@
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=BillChen2K&show_icons=true&count_private=true&hide_title=true">
+
 ### Hi there 👋
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=BillChen2K&show_icons=true&count_private=true">
-
+- 🗞 Code is poetry.
 - 🌱 Currently an undergraduate in ECNU
-- 📫 You can reach me in my Tg Channel [@Hertz2000](https://t.me/Hertz2000).
+- 📫 You can find me in my Tg Channel [@Hertz2000](https://t.me/Hertz2000).
+
+<hr>
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
 <!--
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BillChen2K&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 **BillChen2K/BillChen2K** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

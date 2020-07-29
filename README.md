@@ -1,9 +1,12 @@
 ### Hi there 👋
 
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=BillChen2K&show_icons=true&count_private=true">
+
 - 🌱 Currently an undergraduate in ECNU
 - 📫 You can reach me in my Tg Channel [@Hertz2000](https://t.me/Hertz2000).
 
-![2K's Stats](https://github-readme-stats.vercel.app/api?username=BillChen2K&show_icons=true&count_private=true)
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 <!--
 

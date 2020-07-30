@@ -1,4 +1,3 @@
-
 <img  align="right" src="https://github-readme-stats.vercel.app/api?username=BillChen2K&show_icons=true&count_private=true&hide_title=true">
 
 ### Hi there 👋
@@ -19,13 +18,15 @@ Swift    9 mins          █░░░░░░░░░░░░░░░░░�
 ```
 <!--END_SECTION:waka-->
 
+
 <div>
 <a href="https://spotify-now-playing.billchen2k.vercel.app/now-playing?open">
    <img align="right" src="https://spotify-now-playing.billchen2k.vercel.app/now-playing" width="256" height="64" alt="Now Playing">
 </a>
 </div>
+
 <div>
-    <span align="right"><code>🎵 Now playing on Spotify</code></span>
+<p align="right"><code>🎵 Now playing on Spotify</code></p>
 </div>
 
 <!--

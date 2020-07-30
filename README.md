@@ -6,8 +6,14 @@
 - 🌱 Currently an undergraduate in ECNU
 - 📫 You can find me in my Tg Channel [@Hertz2000](https://t.me/Hertz2000).
 
-<hr>
+#### Now playing on Spotify 🎵
 
+<a href="https://spotify-now-playing.billchen2k.vercel.app/now-playing?open">
+    <img src="https://spotify-now-playing.billchen2k.vercel.app/now-playing" width="256" height="64" alt="Now Playing">`
+</a>
+
+
+#### Coding status last week ⌨️
 <!--START_SECTION:waka-->
 ```text
 Python   1 hr 21 mins    ████████████░░░░░░░░░░░░░   51.35 % 

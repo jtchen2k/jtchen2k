@@ -10,7 +10,11 @@
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Python   1 hr 21 mins    ████████████░░░░░░░░░░░░░   51.35 % 
+C++      11 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.51 % 
+Other    11 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   07.45 % 
+JSON     10 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   06.83 % 
+Swift    9 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   05.96 %
 ```
 <!--END_SECTION:waka-->
 

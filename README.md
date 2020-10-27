@@ -10,7 +10,8 @@
 
 <!--START_SECTION:waka-->
 ```text
-
+JSON         5 mins          ██████████████░░░░░░░░░░░   55.86 % 
+Markdown     3 mins          █████████░░░░░░░░░░░░░░░░   35.39 % 
 ```
 <!--END_SECTION:waka-->
 

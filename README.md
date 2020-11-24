@@ -10,8 +10,9 @@
 
 <!--START_SECTION:waka-->
 ```text
-Python       24 mins         ██████████████████▓░░░░░░   74.58 % 
-Git Config   7 mins          █████▓░░░░░░░░░░░░░░░░░░░   22.87 % 
+Python       23 mins         ██████████████▓░░░░░░░░░░   58.13 % 
+Swift        9 mins          ██████░░░░░░░░░░░░░░░░░░░   23.50 % 
+Git Config   7 mins          ████▓░░░░░░░░░░░░░░░░░░░░   18.15 % 
 ```
 <!--END_SECTION:waka-->
 

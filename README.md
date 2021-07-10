@@ -3,7 +3,7 @@
 ### Hi there 👋
 
 - 🗞 Code is poetry.
-- 🌱 Currently an undergraduate in ECNU
+- 🌱 Currently an undergraduate at ECNU
 - 📫 You can find me in my Tg Channel [@Hertz2000](https://t.me/Hertz2000).
 
 #### Coding status last week ⌨️

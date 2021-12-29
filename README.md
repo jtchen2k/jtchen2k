@@ -21,7 +21,7 @@ HTML         1 hr 17 mins    ██░░░░░░░░░░░░░░░
 
 <div>
 <a href="https://spotify-now-playing.billchen2k.vercel.app/now-playing?open">
-   <img align="right" src="https://spotify-now-playing.billchen2k.vercel.app/now-playing" width="256" height="64" alt="Now Playing">
+   <img align="right" src="https://spotify-now-playing.billchen2k.vercel.app/now-playing" width="540" height="64" alt="Now Playing">
 </a>
 </div>
 

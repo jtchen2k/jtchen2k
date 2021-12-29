@@ -1,12 +1,12 @@
-<img  align="right" src="https://github-readme-stats.vercel.app/api?username=BillChen2K&show_icons=true&count_private=true&hide_title=true">
+<img  align="right" src="https://github-readme-stats.vercel.app/api?username=BillChen2k&show_icons=false&count_private=true&hide_title=true">
 
-### Hi there 👋
+### Hi, I'm Bill Chen.
 
-- 🗞 Code is poetry.
-- 🌱 Currently an undergraduate at ECNU
-- 📫 You can find me in my Tg Channel [@Hertz2000](https://t.me/Hertz2000).
+I am currently doing research on Data Visualization and I'm interested in building softwares on Web and iOS platforms.
 
-#### Coding status last week ⌨️
+You can find me in my Tg Channel [@Hertz2000](https://t.me/Hertz2000) and [Twitter](https://twitter.com/billchen2k).
+
+#### Coding status last week
 
 <!--START_SECTION:waka-->
 ```text
@@ -26,7 +26,7 @@ HTML         1 hr 17 mins    ██░░░░░░░░░░░░░░░
 </div>
 
 <div>
-<p align="right"><code>🎵 Now playing on Spotify</code></p>
+<p align="right"><code>Now playing on Spotify: </code></p>
 </div>
 
 <!--

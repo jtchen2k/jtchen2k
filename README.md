@@ -10,11 +10,11 @@ You can find me in my Tg Channel [@Hertz2000](https://t.me/Hertz2000) and [Twitt
 
 <!--START_SECTION:waka-->
 ```text
-TypeScript   21 hrs 58 mins  ████████████████░░░░░░░░░   64.40 % 
-YAML         2 hrs 45 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.10 % 
-TOML         2 hrs 35 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.62 % 
-Markdown     1 hr 55 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.64 % 
-JavaScript   1 hr 27 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.27 % 
+TypeScript   31 hrs 9 mins   ███████████████████▓░░░░░   78.30 % 
+YAML         3 hrs 12 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.06 % 
+JavaScript   1 hr 6 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.77 % 
+HTML         54 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.28 % 
+Text         42 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.77 % 
 ```
 <!--END_SECTION:waka-->
 

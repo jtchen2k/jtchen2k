@@ -10,11 +10,11 @@ You can find me in my Tg Channel [@Hertz2000](https://t.me/Hertz2000) and [Twitt
 
 <!--START_SECTION:waka-->
 ```text
-Python   13 hrs 3 mins   ███████████████░░░░░░░░░░   60.39 % 
-YAML     2 hrs 29 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.55 % 
-Docker   1 hr 36 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.42 % 
-JSON     1 hr            █░░░░░░░░░░░░░░░░░░░░░░░░   04.65 % 
-Other    55 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.31 % 
+Python   11 hrs 22 mins  ██████████████▓░░░░░░░░░░   58.12 % 
+YAML     2 hrs 30 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   12.81 % 
+Docker   1 hr 36 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.19 % 
+JSON     1 hr 1 min      █▒░░░░░░░░░░░░░░░░░░░░░░░   05.25 % 
+Other    53 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.52 % 
 ```
 <!--END_SECTION:waka-->
 

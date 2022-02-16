@@ -10,11 +10,13 @@ You can find me in my Tg Channel [@Hertz2000](https://t.me/Hertz2000) and [Twitt
 
 <!--START_SECTION:waka-->
 ```text
-TypeScript   7 hrs 54 mins   ██████████▒░░░░░░░░░░░░░░   41.18 % 
-Python       5 hrs 31 mins   ███████▒░░░░░░░░░░░░░░░░░   28.79 % 
-YAML         1 hr 23 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.27 % 
-Docker       1 hr 5 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   05.69 % 
-JSON         54 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.75 % 
+Total: 13 hrs 34 mins
+
+TypeScript   7 hrs 51 mins   ██████████████▒░░░░░░░░░░   57.84 % 
+Python       3 hrs 36 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.55 % 
+JSON         33 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.11 % 
+Text         19 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.44 % 
+Dockerfile   17 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.12 % 
 ```
 <!--END_SECTION:waka-->
 

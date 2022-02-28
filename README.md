@@ -9,13 +9,16 @@ You can find me in my Tg Channel [@Hertz2000](https://t.me/Hertz2000) and [Twitt
 #### Coding status last week
 
 <!--START_SECTION:waka-->
+
 ```text
-Python         9 hrs 20 mins   ███████████▓░░░░░░░░░░░░░   47.28 % 
-TypeScript     4 hrs 58 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.17 % 
-TeX            1 hr 36 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.16 % 
-YAML           45 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.86 % 
-OpenEdge ABL   43 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.69 % 
+Python             9 hrs 20 mins   ██████████▒░░░░░░░░░░░░░░   41.71 %
+TypeScript         4 hrs 58 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.23 %
+HTML               1 hr 46 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.94 %
+TeX                1 hr 40 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.47 %
+PHP                1 hr 12 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.38 %
+YAML               45 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.41 %
 ```
+
 <!--END_SECTION:waka-->
 
 

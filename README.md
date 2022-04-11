@@ -11,12 +11,12 @@ You can find me in my Tg Channel [@Hertz2000](https://t.me/Hertz2000) and [Twitt
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript            18 hrs 36 mins  █████████▒░░░░░░░░░░░░░░░   37.09 %
-TeX                   17 hrs 19 mins  ████████▓░░░░░░░░░░░░░░░░   34.53 %
-Python                6 hrs 40 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.32 %
-JavaScript            4 hrs 22 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   08.71 %
-Dockerfile            42 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.40 %
-SCSS                  24 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.81 %
+TeX                   21 hrs 17 mins  ██████████░░░░░░░░░░░░░░░   40.54 %
+TypeScript            16 hrs 34 mins  ████████░░░░░░░░░░░░░░░░░   31.55 %
+Python                6 hrs 26 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.28 %
+JavaScript            4 hrs 16 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.14 %
+Dockerfile            42 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.34 %
+OpenEdge ABL          26 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.83 %
 ```
 
 <!--END_SECTION:waka-->

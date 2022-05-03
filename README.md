@@ -11,12 +11,12 @@ You can find me in my Tg Channel [@Hertz2000](https://t.me/Hertz2000) and [Twitt
 <!--START_SECTION:waka-->
 
 ```text
-Python           8 hrs 35 mins   ███████████░░░░░░░░░░░░░░   44.36 %
-TypeScript       4 hrs 20 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.42 %
-Markdown         2 hrs 58 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.36 %
-Swift            1 hr 19 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.83 %
-YAML             42 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 %
-Other            35 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.08 %
+Python           7 hrs 44 mins   ████████████▓░░░░░░░░░░░░   50.50 %
+TypeScript       2 hrs 18 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   15.00 %
+Markdown         1 hr 56 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.63 %
+Swift            1 hr 19 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.61 %
+YAML             39 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.25 %
+Other            34 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.76 %
 ```
 
 <!--END_SECTION:waka-->

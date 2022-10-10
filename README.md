@@ -11,10 +11,11 @@ You can find me in my Tg Channel [@Hertz2000](https://t.me/Hertz2000) and [Twitt
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript   3 hrs 6 mins    █████████████████░░░░░░░░   67.47 %
-Rust         46 mins         ████▒░░░░░░░░░░░░░░░░░░░░   16.88 %
-Markdown     17 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.27 %
-Other        14 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.24 %
+JavaScript       3 hrs 6 mins    ███████████████░░░░░░░░░░   59.51 %
+Python           40 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.84 %
+Rust             37 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.83 %
+Markdown         17 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.53 %
+Other            14 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.62 %
 ```
 
 <!--END_SECTION:waka-->

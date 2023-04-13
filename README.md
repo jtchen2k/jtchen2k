@@ -11,10 +11,11 @@ You can find me in my Tg Channel [@Hertz2000](https://t.me/Hertz2000) and [Twitt
 <!--START_SECTION:waka-->
 
 ```text
-Total Time: 37 hrs 12 mins
+Total Time: 35 hrs 7 mins
 
-Swift           35 hrs 54 mins  ███████████████████████▒░   93.31 %
-Other           1 hr 16 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.32 %
+Swift           32 hrs 35 mins  ██████████████████████▒░░   89.29 %
+TypeScript      1 hr 29 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.11 %
+Other           1 hr 22 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.76 %
 ```
 
 <!--END_SECTION:waka-->

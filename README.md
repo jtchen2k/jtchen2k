@@ -11,14 +11,13 @@ You can find me in my Tg Channel [@Hertz2000](https://t.me/Hertz2000) and [Twitt
 <!--START_SECTION:waka-->
 
 ```text
-Total Time: 18 hrs 53 mins
+Total Time: 15 hrs 25 mins
 
-C++              10 hrs 41 mins  █████████████▓░░░░░░░░░░░   54.94 %
-ObjectiveC       2 hrs 50 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.59 %
-TypeScript       1 hr 50 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.43 %
-CMake            1 hr 1 min      █▒░░░░░░░░░░░░░░░░░░░░░░░   05.27 %
-Bash             43 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 %
-Other            34 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.95 %
+C++              9 hrs 46 mins   ███████████████▒░░░░░░░░░   61.32 %
+ObjectiveC       2 hrs 13 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.89 %
+CMake            49 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.21 %
+Bash             49 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.19 %
+Other            31 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.33 %
 ```
 
 <!--END_SECTION:waka-->

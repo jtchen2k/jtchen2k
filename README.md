@@ -11,13 +11,13 @@ You can find me in my Tg Channel [@Hertz2000](https://t.me/Hertz2000) and [Twitt
 <!--START_SECTION:waka-->
 
 ```text
-Total Time: 29 hrs 21 mins
+Total Time: 29 hrs 57 mins
 
-Java                       13 hrs 30 mins  ███████████▒░░░░░░░░░░░░░   45.28 %
-TypeScript                 7 hrs 10 mins   ██████░░░░░░░░░░░░░░░░░░░   24.07 %
-Properties                 1 hr 27 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.88 %
-Log                        1 hr 11 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.99 %
-YAML                       1 hr 1 min      █░░░░░░░░░░░░░░░░░░░░░░░░   03.41 %
+Java                       14 hrs 16 mins  ███████████▓░░░░░░░░░░░░░   46.91 %
+TypeScript                 7 hrs 8 mins    ██████░░░░░░░░░░░░░░░░░░░   23.46 %
+Properties                 1 hr 35 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.24 %
+YAML                       1 hr 12 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 %
+Log                        1 hr 11 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.91 %
 ```
 
 <!--END_SECTION:waka-->

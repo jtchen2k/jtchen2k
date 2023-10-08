@@ -1,12 +1,14 @@
-<img  align="right" src="https://github-readme-stats.vercel.app/api?username=BillChen2k&show_icons=false&count_private=true&hide_title=true">
+<img  align="right" src="https://github-readme-stats.vercel.app/api?username=BillChen2k&show_icons=false&count_private=true&hide_title=true&theme=shadow_blue&card_width=400">
 
 ### Hi, I'm Bill Chen.
 
-I am currently doing research on Data Visualization and I'm interested in building softwares on Web and iOS platforms.
+I am currently doing research on Data Visualization. I'm interested in crafting systems and methods that enhance the way people comprehend and interpret large-scale data.
 
 You can find me in my Tg Channel [@Hertz2000](https://t.me/Hertz2000) and [Twitter](https://twitter.com/billchen2k).
 
 #### Coding status last week
+
+<img align="right" src="https://lastfm-recently-played.vercel.app/api?user=BillChen2K&count=2&width=400" alt="Last.fm Status">
 
 <!--START_SECTION:waka-->
 
@@ -22,6 +24,7 @@ TypeScript   10 mins         █░░░░░░░░░░░░░░░░
 
 <!--END_SECTION:waka-->
 
+<!--
 
 <div>
 <a href="https://spotify-now-playing.billchen2k.vercel.app/now-playing?open">
@@ -33,7 +36,6 @@ TypeScript   10 mins         █░░░░░░░░░░░░░░░░
 <p align="right"><code>Now playing on Spotify: </code></p>
 </div>
 
-<!--
 **BillChen2K/BillChen2K** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:

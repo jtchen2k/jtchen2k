@@ -8,7 +8,7 @@ You can find me in my Tg Channel [@Hertz2000](https://t.me/Hertz2000) and [Twitt
 
 #### Coding status last week
 
-<img align="right" src="https://lastfm-recently-played.vercel.app/api?user=BillChen2K&count=2&width=400" alt="Last.fm Status">
+<img align="right" src="https://lastfm-recently-played.vercel.app/api?user=BillChen2K&count=2&width=300" alt="Last.fm Status">
 
 <!--START_SECTION:waka-->
 

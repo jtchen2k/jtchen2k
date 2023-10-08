@@ -1,6 +1,9 @@
-<img  align="right" src="https://github-readme-stats.vercel.app/api?username=BillChen2k&show_icons=false&count_private=true&hide_title=true&theme=shadow_blue&card_width=400">
-
 ### Hi, I'm Bill Chen.
+
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=BillChen2k&show_icons=false&count_private=true&hide_title=true&theme=shadow_blue&card_width=400" />
+
+![profileview](https://komarev.com/ghpvc/?username=billchen2k&label=profile+views)
+[![wakatime](https://wakatime.com/badge/user/13f46274-19b5-4f27-aeb5-2a5cef060c5b.svg)](https://wakatime.com/@13f46274-19b5-4f27-aeb5-2a5cef060c5b)
 
 I am currently doing research on Data Visualization. I'm interested in crafting systems and methods that enhance the way people comprehend and interpret large-scale data.
 

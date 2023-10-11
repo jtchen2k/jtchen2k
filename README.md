@@ -4,6 +4,7 @@
 
 ![profileview](https://komarev.com/ghpvc/?username=billchen2k&label=profile+views)
 [![wakatime](https://wakatime.com/badge/user/13f46274-19b5-4f27-aeb5-2a5cef060c5b.svg)](https://wakatime.com/@13f46274-19b5-4f27-aeb5-2a5cef060c5b)
+![](https://hit.yhype.me/github/profile?user_id=11037722)
 
 I am currently doing research on Data Visualization. I'm interested in crafting systems and methods that enhance the way people comprehend and interpret large-scale data.
 

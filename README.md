@@ -13,7 +13,7 @@ You can find me in my Tg Channel [@Hertz2000](https://t.me/Hertz2000) and [Twitt
 #### Coding status last week
 
 <a href="https://www.last.fm/user/BillChen2K">
-   <img align="right" src="https://lastfm-recently-played.vercel.app/api?user=BillChen2K&count=2&width=300" alt="Last.fm Status">
+   <img align="right" src="https://lastfm-recently-played.vercel.app/api?user=BillChen2K&count=2&width=300&header_size=compact" alt="Last.fm Status">
 </a>
 
 <!--START_SECTION:waka-->

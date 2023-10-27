@@ -19,13 +19,13 @@ You can find me in my Tg Channel [@Hertz2000](https://t.me/Hertz2000) and [Twitt
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 29 mins
+Total Time: 42 mins
 
-TeX          18 mins         ████████████████░░░░░░░░░   64.51 %
-TypeScript   5 mins          ████▓░░░░░░░░░░░░░░░░░░░░   18.35 %
-Python       4 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.00 %
-Markdown     0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.10 %
-HTML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 %
+TypeScript   30 mins         ██████████████████░░░░░░░   72.35 %
+SCSS         3 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.07 %
+TOML         3 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.43 %
+Markdown     2 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.26 %
+Python       1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.73 %
 ```
 
 <!--END_SECTION:waka-->

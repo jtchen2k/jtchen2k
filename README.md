@@ -19,9 +19,9 @@ You can find me in my Tg Channel [@Hertz2000](https://t.me/Hertz2000) and [Twitt
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 5 mins
+Total Time: 4 mins
 
-TeX   5 mins          █████████████████████████   100.00 %
+TeX   4 mins          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->

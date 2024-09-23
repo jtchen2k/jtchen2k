@@ -19,10 +19,11 @@ You can find me in my Tg Channel [@Hertz2000](https://t.me/Hertz2000) and [Twitt
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 4 mins
+Total Time: 3 mins
 
-TeX    4 mins          ██████████████████████▒░░   89.10 %
-Bash   0 secs          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.90 %
+TypeScript   2 mins          ████████████████▒░░░░░░░░   65.75 %
+Git Config   1 min           ████████░░░░░░░░░░░░░░░░░   32.35 %
+YAML         0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.90 %
 ```
 
 <!--END_SECTION:waka-->

@@ -19,13 +19,13 @@ You can also find me on my [Running Page](https://run.jtchen.io) or [X / Twitter
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 29 hrs 18 mins
+Total Time: 34 hrs 26 mins
 
-Typst           22 hrs 31 mins  █████████████████░░░░░░░░   68.35 %
-Other           3 hrs 39 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   11.09 %
-Markdown        2 hrs 13 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.74 %
-Makefile        1 hr 58 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.98 %
-C               34 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.74 %
+Typst           27 hrs 28 mins  ██████████████████▒░░░░░░   73.09 %
+Other           3 hrs 8 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.37 %
+Markdown        2 hrs 21 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.29 %
+Makefile        2 hrs 3 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.46 %
+C               34 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.53 %
 ```
 
 <!--END_SECTION:waka-->

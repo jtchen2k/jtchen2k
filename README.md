@@ -19,13 +19,13 @@ You can also find me on my [Running Page](https://run.jtchen.io) or [X / Twitter
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 26 hrs 35 mins
+Total Time: 30 hrs 22 mins
 
-Python          7 hrs 53 mins   ███████▒░░░░░░░░░░░░░░░░░   29.51 %
-TypeScript      6 hrs 51 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.62 %
-Typst           5 hrs 41 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.24 %
-YAML            1 hr 24 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.25 %
-TOML            43 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.70 %
+Python          7 hrs 56 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.90 %
+TypeScript      7 hrs 15 mins   ██████░░░░░░░░░░░░░░░░░░░   23.67 %
+Typst           4 hrs 56 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.11 %
+C               1 hr 40 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.48 %
+YAML            1 hr 24 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.62 %
 ```
 
 <!--END_SECTION:waka-->

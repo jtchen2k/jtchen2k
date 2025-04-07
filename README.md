@@ -1,6 +1,6 @@
 ### Hi, I'm Juntong Chen.
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=jtchen2k&show_icons=false&count_private=true&hide_title=true&theme=shadow_blue&card_width=400" />
+<img align="right" src="https://jtchen-github-readme-stats.vercel.app/api?username=jtchen2k&show_icons=false&count_private=true&hide_title=true&theme=shadow_blue&card_width=400" />
 
 ![profileview](https://komarev.com/ghpvc/?username=jtchen2k&label=profile+views&base=2800)
 [![wakatime](https://wakatime.com/badge/user/13f46274-19b5-4f27-aeb5-2a5cef060c5b.svg)](https://wakatime.com/@13f46274-19b5-4f27-aeb5-2a5cef060c5b)

@@ -19,13 +19,13 @@ You can also find me on my [Running Page](https://run.jtchen.io) or [X / Twitter
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 32 hrs 10 mins
+Total Time: 32 hrs 1 min
 
-C++             14 hrs 57 mins  ███████████▒░░░░░░░░░░░░░   45.09 %
-Scala           6 hrs 3 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.24 %
-C               5 hrs 15 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.83 %
-Makefile        3 hrs 29 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.54 %
-Other           1 hr            ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.01 %
+C++             15 hrs 30 mins  ███████████▓░░░░░░░░░░░░░   46.77 %
+Scala           6 hrs 49 mins   █████░░░░░░░░░░░░░░░░░░░░   20.58 %
+C               4 hrs 1 min     ███░░░░░░░░░░░░░░░░░░░░░░   12.12 %
+Makefile        3 hrs 14 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.79 %
+Other           1 hr 9 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   03.47 %
 ```
 
 <!--END_SECTION:waka-->

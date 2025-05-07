@@ -19,13 +19,13 @@ You can also find me on my [Running Page](https://run.jtchen.io) or [X / Twitter
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 17 hrs 23 mins
+Total Time: 16 hrs 49 mins
 
-C                 9 hrs 2 mins    █████████████░░░░░░░░░░░░   51.84 %
-Python            3 hrs 22 mins   ████▓░░░░░░░░░░░░░░░░░░░░   19.33 %
-Assembly          45 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 %
-Makefile          42 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.07 %
-Text              31 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.05 %
+C                 7 hrs 9 mins    ██████████▓░░░░░░░░░░░░░░   42.30 %
+Python            4 hrs 51 mins   ███████▒░░░░░░░░░░░░░░░░░   28.72 %
+Makefile          50 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.99 %
+Docker            35 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.51 %
+Text              31 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.15 %
 ```
 
 <!--END_SECTION:waka-->

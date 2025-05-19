@@ -19,13 +19,13 @@ You can also find me on my [Running Page](https://run.jtchen.io) or [X / Twitter
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 8 hrs 33 mins
+Total Time: 7 hrs 38 mins
 
-Typst         6 hrs 40 mins   ███████████████████░░░░░░   76.55 %
-Makefile      35 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.70 %
-BibTeX        30 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.89 %
-Docker        19 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.69 %
-Objective-C   12 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.40 %
+Typst         6 hrs 22 mins   ████████████████████▓░░░░   82.60 %
+BibTeX        30 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.66 %
+Makefile      25 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.62 %
+Objective-C   12 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.71 %
+C             4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.04 %
 ```
 
 <!--END_SECTION:waka-->

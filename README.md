@@ -19,13 +19,13 @@ You can also find me on my [Running Page](https://run.jtchen.io) or [X / Twitter
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 1 hr 15 mins
+Total Time: 1 hr 9 mins
 
-Python            30 mins         █████████▓░░░░░░░░░░░░░░░   39.21 %
-Typst             16 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.53 %
-Markdown          10 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.81 %
-Docker            4 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.97 %
-YAML              4 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.63 %
+Python            30 mins         ██████████▓░░░░░░░░░░░░░░   42.41 %
+Typst             10 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   15.12 %
+Markdown          10 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.94 %
+Docker            4 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.46 %
+YAML              4 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.09 %
 ```
 
 <!--END_SECTION:waka-->

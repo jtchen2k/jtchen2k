@@ -21,8 +21,8 @@ You can also find me on my [Running Page](https://run.jtchen.io) or [X / Twitter
 ```txt
 Total Time: 58 mins
 
-Python            30 mins         ████████████▓░░░░░░░░░░░░   50.01 %
-Markdown          10 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.61 %
+Python            30 mins         ████████████▓░░░░░░░░░░░░   50.04 %
+Markdown          10 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.62 %
 Docker            4 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.62 %
 YAML              4 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   07.04 %
 Makefile          3 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.19 %

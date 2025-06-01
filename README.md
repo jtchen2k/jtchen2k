@@ -19,9 +19,10 @@ You can also find me on my [Running Page](https://run.jtchen.io) or [X / Twitter
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 0 secs
+Total Time: 4 mins
 
-No activity tracked
+sshconfig   2 mins          ██████████████▒░░░░░░░░░░   57.61 %
+YAML        1 min           ██████████▓░░░░░░░░░░░░░░   42.39 %
 ```
 
 <!--END_SECTION:waka-->

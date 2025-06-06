@@ -21,10 +21,10 @@ You can also find me on my [Running Page](https://run.jtchen.io) or [X / Twitter
 ```txt
 Total Time: 4 mins
 
-sshconfig   2 mins          ██████████████▒░░░░░░░░░░   56.90 %
-YAML        1 min           ██████████▒░░░░░░░░░░░░░░   41.86 %
+sshconfig   2 mins          ██████████████░░░░░░░░░░░   56.64 %
+YAML        1 min           ██████████▒░░░░░░░░░░░░░░   41.67 %
 C           0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.91 %
-Markdown    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 %
+Markdown    0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.78 %
 ```
 
 <!--END_SECTION:waka-->

@@ -21,8 +21,7 @@ You can also find me on my [Running Page](https://run.jtchen.io) or [X / Twitter
 ```txt
 Total Time: 0 secs
 
-C          0 secs          █████████████▒░░░░░░░░░░░   53.69 %
-Markdown   0 secs          ███████████▓░░░░░░░░░░░░░   46.31 %
+Markdown   0 secs          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->

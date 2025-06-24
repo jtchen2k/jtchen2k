@@ -19,13 +19,11 @@ You can also find me on my [Running Page](https://run.jtchen.io) or [X / Twitter
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 10 mins
+Total Time: 5 mins
 
-Typst        4 mins          ████████▒░░░░░░░░░░░░░░░░   33.28 %
-Other        3 mins          █████▓░░░░░░░░░░░░░░░░░░░   22.47 %
-Markdown     2 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   15.30 %
-TypeScript   1 min           ███▒░░░░░░░░░░░░░░░░░░░░░   13.28 %
-Makefile     1 min           ██░░░░░░░░░░░░░░░░░░░░░░░   08.29 %
+Typst      4 mins          █████████████░░░░░░░░░░░░   51.96 %
+Other      3 mins          ████████▓░░░░░░░░░░░░░░░░   35.09 %
+Makefile   1 min           ███▒░░░░░░░░░░░░░░░░░░░░░   12.95 %
 ```
 
 <!--END_SECTION:waka-->

@@ -19,13 +19,13 @@ You can also find me on my [Running Page](https://run.jtchen.io) or [X / Twitter
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 4 hrs 15 mins
+Total Time: 9 hrs 3 mins
 
-Other         2 hrs 48 mins   ██████████░░░░░░░░░░░░░░░   39.77 %
-C++           39 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.36 %
-Text          36 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.69 %
-Bash          30 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.11 %
-Markdown      26 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.35 %
+Other                              3 hrs 37 mins   ███████░░░░░░░░░░░░░░░░░░   28.58 %
+Perl                               2 hrs 50 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.39 %
+C++                                2 hrs 50 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.36 %
+Python                             32 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.32 %
+Bash                               31 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.10 %
 ```
 
 <!--END_SECTION:waka-->

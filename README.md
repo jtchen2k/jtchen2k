@@ -6,9 +6,9 @@
 [![wakatime](https://wakatime.com/badge/user/13f46274-19b5-4f27-aeb5-2a5cef060c5b.svg)](https://wakatime.com/@13f46274-19b5-4f27-aeb5-2a5cef060c5b)
 ![](https://hit.yhype.me/github/profile?user_id=11037722)
 
-I am currently doing research on Data Visualization. I'm interested in crafting systems and methods that enhance the way people comprehend and interpret large-scale spatio-temporal data.
+I am currently a GPU engineer @ NVIDIA, working on full-chip functional verification of the compute and memory subsystem to support reliable and performant CUDA computing.
 
-You can also find me on my [Running Page](https://run.jtchen.io) or [X / Twitter](https://twitter.com/jtchen2k).
+I'm also active on my [Running Page](https://run.jtchen.io) and [X / Twitter](https://x.com/jtchen2k).
 
 #### Coding status last week
 

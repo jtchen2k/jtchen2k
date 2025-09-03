@@ -19,13 +19,13 @@ I'm also active on my [Running Page](https://run.jtchen.io) and [X / Twitter](ht
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 52 hrs 38 mins
+Total Time: 56 hrs 29 mins
 
-C++                                34 hrs 43 mins  ███████████████▓░░░░░░░░░   62.90 %
-Cuda                               11 hrs 49 mins  █████▒░░░░░░░░░░░░░░░░░░░   21.43 %
-Other                              2 hrs 34 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.66 %
-XML                                2 hrs 33 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.64 %
-C                                  2 hrs 1 min     █░░░░░░░░░░░░░░░░░░░░░░░░   03.68 %
+C++                                37 hrs 43 mins  ████████████████░░░░░░░░░   63.55 %
+Cuda                               11 hrs 50 mins  █████░░░░░░░░░░░░░░░░░░░░   19.94 %
+XML                                4 hrs 35 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.73 %
+Other                              2 hrs 52 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   04.83 %
+Objective-C                        43 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.21 %
 ```
 
 <!--END_SECTION:waka-->

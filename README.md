@@ -19,13 +19,13 @@ I'm also active on my [Running Page](https://run.jtchen.io) and [X / Twitter](ht
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 8 hrs 18 mins
+Total Time: 10 hrs 23 mins
 
-Python             4 hrs 5 mins    ████████████░░░░░░░░░░░░░   48.15 %
-reStructuredText   3 hrs 6 mins    █████████░░░░░░░░░░░░░░░░   36.65 %
-JSON               17 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.39 %
-TOML               12 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.49 %
-Makefile           11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.16 %
+Python             5 hrs 33 mins   █████████████░░░░░░░░░░░░   52.09 %
+reStructuredText   3 hrs 14 mins   ███████▓░░░░░░░░░░░░░░░░░   30.41 %
+JSON               21 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.28 %
+Other              16 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.63 %
+C++                16 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.55 %
 ```
 
 <!--END_SECTION:waka-->

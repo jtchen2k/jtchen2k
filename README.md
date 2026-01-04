@@ -21,10 +21,10 @@ I'm also active on my [Running Page](https://run.jtchen.io) and [X / Twitter](ht
 ```txt
 Total Time: 30 mins
 
-Markdown     27 mins         ██████████████████████▒░░   89.11 %
-JSON         1 min           █▓░░░░░░░░░░░░░░░░░░░░░░░   06.31 %
-CSV          0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.12 %
-Makefile     0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.03 %
+Markdown     27 mins         ██████████████████████▒░░   89.57 %
+JSON         1 min           █▓░░░░░░░░░░░░░░░░░░░░░░░   06.34 %
+CSV          0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.13 %
+Makefile     0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.04 %
 Less         0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.74 %
 ```
 

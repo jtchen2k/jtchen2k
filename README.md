@@ -19,13 +19,13 @@ I'm also active on my [Running Page](https://run.jtchen.io) and [X / Twitter](ht
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 8 hrs 57 mins
+Total Time: 8 hrs 20 mins
 
-TypeScript    2 hrs 8 mins          █████▒░░░░░░░░░░░░░░░░░░░   21.99 %
-Python        1 hr 58 mins          █████░░░░░░░░░░░░░░░░░░░░   20.33 %
-Other         46 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   07.96 %
-YAML          45 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   07.83 %
-Makefile      38 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.59 %
+TypeScript    2 hrs 8 mins          ██████░░░░░░░░░░░░░░░░░░░   23.59 %
+Python        1 hr 59 mins          █████▓░░░░░░░░░░░░░░░░░░░   22.00 %
+YAML          48 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   08.97 %
+Other         44 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   08.10 %
+CSS           37 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.92 %
 ```
 
 <!--END_SECTION:waka-->

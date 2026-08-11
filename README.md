@@ -19,13 +19,13 @@ I'm also active on my [Running Page](https://run.jtchen.io) and [X / Twitter](ht
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 22 hrs 7 mins
+Total Time: 22 hrs 29 mins
 
-C++           10 hrs 22 mins        ██████████▓░░░░░░░░░░░░░░   43.29 %
-Python        3 hrs 47 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.84 %
-Other         1 hr 51 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.76 %
-Markdown      1 hr 39 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.89 %
-Bash          1 hr 14 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.16 %
+C++           10 hrs 23 mins        ██████████▓░░░░░░░░░░░░░░   42.67 %
+Swift         2 hrs 19 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.56 %
+Markdown      2 hrs 14 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.23 %
+Other         1 hr 52 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.67 %
+Python        1 hr 22 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.67 %
 ```
 
 <!--END_SECTION:waka-->

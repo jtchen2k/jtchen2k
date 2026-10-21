@@ -19,13 +19,13 @@ I'm also active on my [Running Page](https://run.jtchen.io) and [X / Twitter](ht
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 8 hrs 33 mins
+Total Time: 7 hrs 20 mins
 
-Python        2 hrs 11 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.52 %
-Makefile      1 hr 51 mins          ████▓░░░░░░░░░░░░░░░░░░░░   18.20 %
-Other         1 hr 39 mins          ████░░░░░░░░░░░░░░░░░░░░░   16.18 %
-TOML          1 hr 26 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.12 %
-Objective-C   1 hr 9 mins           ██▓░░░░░░░░░░░░░░░░░░░░░░   11.32 %
+Other         2 hrs 52 mins         ███████░░░░░░░░░░░░░░░░░░   28.19 %
+Python        2 hrs 2 mins          █████░░░░░░░░░░░░░░░░░░░░   20.02 %
+Makefile      1 hr 35 mins          ████░░░░░░░░░░░░░░░░░░░░░   15.54 %
+TOML          1 hr 26 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.11 %
+Objective-C   1 hr 9 mins           ███░░░░░░░░░░░░░░░░░░░░░░   11.34 %
 ```
 
 <!--END_SECTION:waka-->
